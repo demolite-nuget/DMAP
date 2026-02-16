@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMAP.Net", "DMAP.Net\DMAP.Net.csproj", "{AA63F269-9CE4-4CCE-B430-6CD3B1B98F31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMAP.Net.Tests", "DMAP.Net.Tests\DMAP.Net.Tests.csproj", "{DDEF544C-52FE-4AD2-A8A9-27803A5A3B61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMAP.Net.Benchmarks", "DMAP.Net.Benchmarks\DMAP.Net.Benchmarks.csproj", "{C00ED663-4C73-4CA7-895F-D1868F7729B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA63F269-9CE4-4CCE-B430-6CD3B1B98F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA63F269-9CE4-4CCE-B430-6CD3B1B98F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA63F269-9CE4-4CCE-B430-6CD3B1B98F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA63F269-9CE4-4CCE-B430-6CD3B1B98F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDEF544C-52FE-4AD2-A8A9-27803A5A3B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDEF544C-52FE-4AD2-A8A9-27803A5A3B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDEF544C-52FE-4AD2-A8A9-27803A5A3B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDEF544C-52FE-4AD2-A8A9-27803A5A3B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00ED663-4C73-4CA7-895F-D1868F7729B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00ED663-4C73-4CA7-895F-D1868F7729B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00ED663-4C73-4CA7-895F-D1868F7729B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00ED663-4C73-4CA7-895F-D1868F7729B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
